@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MPL-2.0
-// (PMPL-1.0-or-later preferred; MPL-2.0 required for Hackage OSI-approved policy)
+// (MPL-2.0 preferred; MPL-2.0 required for Hackage OSI-approved policy)
 = k9-haskell
 Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>
 :toc:
@@ -88,4 +88,4 @@ cabal test
 
 == License
 
-MPL-2.0 (PMPL-1.0-or-later preferred; MPL-2.0 required for Hackage). See link:LICENSE[LICENSE].
+MPL-2.0 (MPL-2.0 preferred; MPL-2.0 required for Hackage). See link:LICENSE[LICENSE].

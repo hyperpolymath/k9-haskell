@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: PMPL-1.0-or-later
+// SPDX-License-Identifier: MPL-2.0
 // Template: QUICKSTART-USER.adoc — 5-minute path to working software
 // Replace k9-haskell, K9 Haskell — See README.adoc for details., just run, K9 Haskell started successfully. with actuals
 = k9-haskell — Quick Start for Users
